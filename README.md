@@ -1,6 +1,6 @@
 ﻿# Code collation while watching teacher Yin Cheng's machine learning video 
 
-标签（空格分隔）： Machine learning algorithm code
+ Machine learning algorithm code
 
 ---
 
